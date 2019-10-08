@@ -1,4 +1,4 @@
-## SYMBOLIC COMPUTATIONS OF FORWARD KINEMATICS FOR OMNIWIRST
+## SYMBOLIC COMPUTATIONS OF FORWARD KINEMATICS 
 # Raed Bsili, Istituto Italiano di Tecnologia 
 import numpy as np
 import matplotlib.pyplot as plt
