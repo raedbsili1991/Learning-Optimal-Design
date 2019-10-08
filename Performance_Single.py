@@ -1,4 +1,5 @@
 ## SYMBOLIC COMPUTATIONS OF FORWARD KINEMATICS FOR OMNIWIRST
+# Raed Bsili, Istituto Italiano di Tecnologia 
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D 
