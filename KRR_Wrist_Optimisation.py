@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+#Author: Raed BSILI,
+# 28/04/2019, IIT. 
+
 import Performance_Single
 import math
 import numpy as np
